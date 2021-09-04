@@ -10,6 +10,6 @@ I've implemented the concept of [Kernels in SVM](https://www.datacamp.com/commun
 
 # Preview
 
-![Image0]()
+![Image0](https://github.com/Anuragtsl/ML-SVM_Kernels/blob/main/Image/0.png)
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/ML-SVM_Kernels/blob/main/Image/1.png)
